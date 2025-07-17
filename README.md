@@ -8,7 +8,7 @@ A simple and efficient Expense Tracker web application built with modern web tec
 
 ![Expense Tracker](./public/expense%20tracker.png)
 
-<h1><a href="https://expense-trackey.netlify.app/">Visit 💫</a></h1>
+<h1><a href="https://expense-trackey.netlify.app/">Visit💫</a></h1>
 
 ---
 
